@@ -1,0 +1,6 @@
+{
+  "name": "Web Item Extractor",
+  "description": "Fetch and extract product details, listings, prices, images, and metadata from any website, including booth.pm and online stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
