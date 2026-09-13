@@ -1,5 +1,4 @@
 theme: jekyll-theme-primer
-source: .
 exclude:
   - node_modules
   - .git
